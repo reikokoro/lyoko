@@ -1,3 +1,5 @@
 - 3D Model character
-- 3D Model scene
+- 3D Model Scene
 - 3D Model Boss and Enemy
+- 3D Model Enviroment
+- 3D Model Particle system
